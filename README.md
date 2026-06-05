@@ -65,3 +65,20 @@ Python is used for data analysis, preprocessing, and machine learning tasks. Lib
 17. Future Enhancements
 
 Future improvements may include advanced machine learning algorithms such as Random Forest, XGBoost, or Logistic Regression for better prediction accuracy. Additional borrower features and real-time data integration can further enhance risk assessment. More advanced dashboards can also be developed for business users.
+
+<img width="695" height="470" alt="image" src="https://github.com/user-attachments/assets/6df6aa83-06ef-4f4c-a714-496935e918d6" />
+<img width="841" height="470" alt="image" src="https://github.com/user-attachments/assets/66cdafac-a3d9-465a-9e78-256101ec6850" />
+<img width="841" height="470" alt="image" src="https://github.com/user-attachments/assets/87ae1a62-5692-4067-b209-751799e57da1" />
+<img width="868" height="547" alt="image" src="https://github.com/user-attachments/assets/bf9f2d4a-97ef-41f3-8fe1-0c5e53e53c65" />
+<img width="695" height="470" alt="image" src="https://github.com/user-attachments/assets/5e2321dc-5cb5-49b2-b5a2-792eadf863e8" />
+<img width="1182" height="824" alt="image" src="https://github.com/user-attachments/assets/d1842108-214c-46f1-8e10-231887fa63e6" />
+<img width="868" height="547" alt="image" src="https://github.com/user-attachments/assets/0fbfba3f-da54-45fa-8275-a5cdfce3dd7e" />
+
+
+
+
+
+
+
+
+
